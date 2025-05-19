@@ -68,7 +68,7 @@ Here are some of the technologies I work with:
 </p>
 
 ---
-<br>
+
 ## 🌱 My Learning Journey & Goals
 
 *   I’m passionate about using data to drive real-world impact, especially in project management and performance analytics.
