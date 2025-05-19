@@ -71,10 +71,11 @@ Here are some of the technologies I work with:
 <br>
 ## 🌱 My Learning Journey & Goals
 
-*   I'm always eager to learn and apply new technologies.
-*   Currently diving deeper into [mention a specific advanced topic, e.g., "Reinforcement Learning", "Generative Adversarial Networks (GANs)", "Large Language Models (LLMs)"].
-*   Aiming to contribute to open-source projects related to data science and AI.
-*   Looking forward to collaborating on research projects and publishing impactful work.
+*   I’m passionate about using data to drive real-world impact, especially in project management and performance analytics.
+*   Currently deepening my knowledge in Machine Learning, AI, and productivity-focused data modeling.
+*   Actively working on integrating data science into full-stack applications using tools like Angular, Spring Boot, and Firebase.
+*   My goal is to contribute to impactful research and innovative solutions in AI and data science, particularly through academic collaborations and hands-on projects.
+
 
 ---
 
