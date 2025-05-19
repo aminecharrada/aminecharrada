@@ -22,7 +22,7 @@
 ## 📫 How to Reach Me
 
 *   **Email:** [bencharradamohamedamine@gmail.com](mailto:bencharradamohamedamine@gmail.com)
-*   **LinkedIn:** [Mohamed Amine Ben Charrada]([https://www.linkedin.com/in/mohamed-amine-ben-charrada-198a65222/](https://www.linkedin.com/in/mohamed-amine-ben-charrada-877896203/)
+*   **LinkedIn:** [Mohamed Amine Ben Charrada](https://www.linkedin.com/in/mohamed-amine-ben-charrada-877896203/)
 
 
 ---
