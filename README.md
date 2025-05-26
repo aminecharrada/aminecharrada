@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Ben Charrada</h1>
 <h3 align="center">
-  I'm an <strong>Engineering Data Science student</strong> at <em>Polytechnique Sousse</em> and an aspiring <strong>Researcher</strong> at the <em>Institut Supérieur d'Informatique et de Mathématiques de Monastir (ISIMM)</em>. I'm passionate about leveraging data to solve complex problems, uncover insights, and contribute to innovative research in areas such as Machine Learning, AI, and Data Analysis.
+  I'm an <strong>Engineering Data Science student</strong> at <em>Polytechnique Sousse</em> and an aspiring <strong>Researcher</strong> at the <em>Higher Institute of Computer Science and Mathematics of Monastir(ISIMM).</em>. I'm passionate about leveraging data to solve complex problems, uncover insights, and contribute to innovative research in areas such as Machine Learning, AI, and Data Analysis.
 </h3>
 
 
