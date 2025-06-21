@@ -14,7 +14,7 @@
 
 *   Deepening my knowledge in Machine Learning algorithms, alongside the software engineering practices for developing and deploying practical AI solutions.
 *   Exploring and experimenting with modern web development technologies and frameworks.
-*   Continuously learning new tools and methodologies in the data science ecosystem.
+*   Continuously learning new tools and methodologies in both the data science ecosystem and full-stack development.
 
 ---
 
